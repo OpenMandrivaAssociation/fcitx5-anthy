@@ -2,7 +2,7 @@ Summary:	Anthy (Japanese IM) plugin for fcitx5
 Name:		fcitx5-anthy
 Version:	5.1.6
 Release:	1
-Source0:    https://github.com/fcitx/fcitx5-anthy/archive/refs/tags/%{version}.tar.gz
+Source0:	https://github.com/fcitx/fcitx5-anthy/archive/refs/tags/%{version}.tar.gz
 URL:		https://github.com/fcitx/fcitx5-anthy
 License:	GPLv2
 Group:		System/Internationalization
